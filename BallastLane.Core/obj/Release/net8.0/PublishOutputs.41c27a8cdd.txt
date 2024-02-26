@@ -1,0 +1,3 @@
+/Users/pipeavilamac/code/BallastLane/BallastLane.Core/bin/Release/net8.0/publish/BallastLane.Core.dll
+/Users/pipeavilamac/code/BallastLane/BallastLane.Core/bin/Release/net8.0/publish/BallastLane.Core.deps.json
+/Users/pipeavilamac/code/BallastLane/BallastLane.Core/bin/Release/net8.0/publish/BallastLane.Core.pdb

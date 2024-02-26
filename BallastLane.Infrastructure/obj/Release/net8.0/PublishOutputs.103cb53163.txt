@@ -1,0 +1,5 @@
+/Users/pipeavilamac/code/BallastLane/BallastLane.Infrastructure/bin/Release/net8.0/publish/BallastLane.Infrastructure.dll
+/Users/pipeavilamac/code/BallastLane/BallastLane.Infrastructure/bin/Release/net8.0/publish/BallastLane.Infrastructure.deps.json
+/Users/pipeavilamac/code/BallastLane/BallastLane.Infrastructure/bin/Release/net8.0/publish/BallastLane.Infrastructure.pdb
+/Users/pipeavilamac/code/BallastLane/BallastLane.Infrastructure/bin/Release/net8.0/publish/BallastLane.Core.dll
+/Users/pipeavilamac/code/BallastLane/BallastLane.Infrastructure/bin/Release/net8.0/publish/BallastLane.Core.pdb

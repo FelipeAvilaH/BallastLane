@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Web/BallastLane.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj",
+        "projectName": "BallastLane.Core",
+        "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj",
+        "packagesPath": "/Users/pipeavilamac/.nuget/packages/",
+        "outputPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pipeavilamac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Infrastructure/BallastLane.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Infrastructure/BallastLane.Infrastructure.csproj",
+        "projectName": "BallastLane.Infrastructure",
+        "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Infrastructure/BallastLane.Infrastructure.csproj",
+        "packagesPath": "/Users/pipeavilamac/.nuget/packages/",
+        "outputPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pipeavilamac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj": {
+                "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/BallastLane.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/BallastLane.Services.csproj",
+        "projectName": "BallastLane.Services",
+        "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/BallastLane.Services.csproj",
+        "packagesPath": "/Users/pipeavilamac/.nuget/packages/",
+        "outputPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pipeavilamac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj": {
+                "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Web/BallastLane.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Web/BallastLane.Web.csproj",
+        "projectName": "BallastLane.Web",
+        "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Web/BallastLane.Web.csproj",
+        "packagesPath": "/Users/pipeavilamac/.nuget/packages/",
+        "outputPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pipeavilamac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj": {
+                "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Core/BallastLane.Core.csproj"
+              },
+              "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Infrastructure/BallastLane.Infrastructure.csproj": {
+                "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Infrastructure/BallastLane.Infrastructure.csproj"
+              },
+              "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/BallastLane.Services.csproj": {
+                "projectPath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/BallastLane.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

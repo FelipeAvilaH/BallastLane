@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhZ/evFCgaqB/fBnhNkruhUSjeQpgKaHnYm6vdrxhAK/BGkqQY2RxScdd8bp73O4XWLwmn+sOk2mHKNTi4JD0A==",
+  "success": true,
+  "projectFilePath": "/Users/pipeavilamac/code/ballastLaneApp/BallastLane/BallastLane.Services/BallastLane.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/pipeavilamac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/pipeavilamac/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/pipeavilamac/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

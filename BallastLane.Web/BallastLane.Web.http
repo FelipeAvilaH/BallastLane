@@ -1,0 +1,6 @@
+@BallastLane.Web_HostAddress = http://localhost:5214
+
+GET {{BallastLane.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
