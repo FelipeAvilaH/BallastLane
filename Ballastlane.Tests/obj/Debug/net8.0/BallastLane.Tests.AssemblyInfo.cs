@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BallastLane.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5698ec5b89df87986c711964f55b4ec99c8e74e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a836871dc0b43d459b23cf51aebd0d032f77971")]
 [assembly: System.Reflection.AssemblyProductAttribute("BallastLane.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BallastLane.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
